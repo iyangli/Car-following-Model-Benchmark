@@ -2,6 +2,6 @@
 Benchmark analysis of existing representative car-following models
 
 
-# GHR,IDM,LCM,GIPPS,FVD,S-K,Wiedemann
+GHR,IDM,LCM,GIPPS,FVD,S-K,Wiedemann
 
 
