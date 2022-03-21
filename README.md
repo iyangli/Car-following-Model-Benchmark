@@ -1,4 +1,4 @@
-# 0 You could email me directly for further information
+# 0 My email
 iyangli.chn@outlook.com
 
 # 1 Car-following-Model-Benchmark
