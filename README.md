@@ -18,8 +18,11 @@ Scenario 2: car-followng, being cut in, car-following
 
 # 6 References
 [1] Brockfeld, E., et al., Toward benchmarking of microscopic traffic flow models. Transportation research record, 2003. 1852(1): p. 124-129.
+
 [2] Ni, D., Traffic Flow Theory.
+
 [3] Ni, D., et al., Vehicle longitudinal control and traffic stream modeling. Transportation Science, 2015. 50(3): p. 1016-1031.
+
 [4] Ni, D., A unified perspective on traffic flow theory, part I: the field theory, in ICCTP 2011: Towards Sustainable Transportation Systems. 2011. p. 4227-4243.
 
 
