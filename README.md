@@ -1,10 +1,10 @@
-# 0 You could email me directly
+# 0 Could email me directly for further information
 iyangli.chn@outlook.com
 
 # 1 Car-following-Model-Benchmark
 Benchmark analysis of existing representative car-following models
 
-# 2 Selected model
+# 2 Selected models
 GHR,IDM,LCM,GIPPS,FVD,S-K,Wiedemann,etc.
 
 # 3 Scenario 1
